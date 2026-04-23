@@ -71,18 +71,6 @@ This project solves that by creating an interactive quiz system with automated s
 
 ---
 
-## 🏗️ Project Structure
-
-```
-Online-Quiz-Assessment-System/
-│
-├── src/
-├── images/
-│   ├── Screenshot 2026-04-23 155211.png
-│   ├── Screenshot 2026-04-23 155243.png
-│   ├── Screenshot 2026-04-23 155300.png
-├── README.md
-```
 
 ---
 
