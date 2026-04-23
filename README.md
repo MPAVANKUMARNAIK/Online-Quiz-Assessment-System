@@ -34,6 +34,7 @@ This project solves that by creating an interactive quiz system with automated s
 
 ### 🔹 Step 1: Quiz Start Interface
 
+![Quiz Start](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/5eea0fe21b9b13a0c2322cbd0511848d572bbd76/images/Screenshot%202026-04-23%20155144.png?raw=true)
 ![Quiz Start](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155211.png?raw=true)
 
 👉 Users can start the quiz and view available questions in a simple and interactive interface.
@@ -43,6 +44,7 @@ This project solves that by creating an interactive quiz system with automated s
 ### 🔹 Step 2: Question & Answer Selection
 
 ![Quiz Questions](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155243.png?raw=true)
+![Quiz Result](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155300.png?raw=true)
 
 👉 Users can select answers for multiple-choice questions. The system ensures smooth navigation between questions.
 
@@ -50,7 +52,7 @@ This project solves that by creating an interactive quiz system with automated s
 
 ### 🔹 Step 3: Result & Score Display
 
-![Quiz Result](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155300.png?raw=true)
+![Quiz Result](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/5eea0fe21b9b13a0c2322cbd0511848d572bbd76/images/Screenshot%202026-04-23%20160740.png?raw=true)
 
 👉 After completing the quiz, the system displays:
 
