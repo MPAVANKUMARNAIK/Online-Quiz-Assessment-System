@@ -1,0 +1,87 @@
+java,What is JVM?,Java Virtual Machine,Java Variable Method,Just Virtual Machine,Java Verified Mode,1
+java,Which keyword is used to inherit a class?,extends,implements,inherit,super,1
+java,Which method is entry point in Java?,main(),start(),run(),init(),1
+java,Which package contains Scanner?,java.util,java.io,java.lang,java.net,1
+java,Which keyword is used for abstraction?,abstract,static,final,void,1
+java,Which is not a Java feature?,Pointer,Platform Independent,Object Oriented,Secure,1
+java,Which operator is used for comparison?,==,=,!=,&&,1
+java,Which type is used to store text?,String,int,float,char,1
+java,Which loop executes at least once?,do-while,for,while,foreach,1
+java,Which keyword is used to stop loop?,break,continue,exit,stop,1
+
+General Knowledge,Who is Prime Minister of India?,Narendra Modi,Rahul Gandhi,Manmohan Singh,Amit Shah,1
+General Knowledge,Capital of India?,New Delhi,Mumbai,Hyderabad,Chennai,1
+General Knowledge,National animal of India?,Tiger,Lion,Elephant,Leopard,1
+General Knowledge,Who invented bulb?,Thomas Edison,Newton,Einstein,Graham Bell,1
+General Knowledge,Which planet is largest?,Jupiter,Earth,Mars,Venus,1
+General Knowledge,Which ocean is biggest?,Pacific,Atlantic,Indian,Arctic,1
+General Knowledge,Who wrote Ramayana?,Valmiki,Vyasa,Tulsidas,Kalidasa,1
+General Knowledge,Currency of India?,Rupee,Dollar,Euro,Yen,1
+General Knowledge,Which gas do plants use?,CO2,O2,N2,H2,1
+General Knowledge,How many continents?,7,5,6,8,1
+
+math,2+2=?,4,3,5,6,1
+math,5*3=?,15,10,20,25,1
+math,Square of 4?,16,8,12,20,1
+math,10/2=?,5,2,10,4,1
+math,7+6=?,13,12,11,14,1
+math,9-3=?,6,5,4,3,1
+math,6*6=?,36,30,42,48,1
+math,12/3=?,4,3,6,2,1
+math,8+5=?,13,14,12,11,1
+math,15-5=?,10,5,15,20,1
+
+c,What is C?,Programming Language,Operating System,Database,Compiler,1
+c,Who developed C?,Dennis Ritchie,James Gosling,Bjarne Stroustrup,Guido Rossum,1
+c,Which symbol ends a statement?,;,.,:,!,1
+c,Which header is used for printf?,stdio.h,stdlib.h,string.h,math.h,1
+c,Which loop is entry controlled?,for,do-while,while,switch,1
+c,Which datatype stores integer?,int,float,char,double,1
+c,Which operator is used for addition?,+,-,*,/,1
+c,Which keyword is used to define constant?,const,define,static,final,1
+c,Which function is entry point?,main(),start(),run(),init(),1
+c,Which symbol is used for comments?,//,##,**,%%,1
+
+cpp,Who developed C++?,Bjarne Stroustrup,Dennis Ritchie,James Gosling,Guido Rossum,1
+cpp,C++ is extension of?,C,Java,Python,Pascal,1
+cpp,Which concept is used for data hiding?,Encapsulation,Inheritance,Polymorphism,Abstraction,1
+cpp,Which keyword is used for class?,class,struct,object,define,1
+cpp,Which operator is used for scope resolution?,::,.,->,??,1
+cpp,Which concept allows multiple functions same name?,Polymorphism,Inheritance,Encapsulation,Abstraction,1
+cpp,Which function is constructor?,Same name as class,main(),init(),start(),1
+cpp,Which access specifier is private?,private,public,protected,static,1
+cpp,Which feature supports reuse?,Inheritance,Loop,Function,Pointer,1
+cpp,Which keyword is used for dynamic memory?,new,alloc,create,malloc,1
+
+os,What is OS?,Operating System,Compiler,Application,Hardware,1
+os,Which OS is open source?,Linux,Windows,MacOS,DOS,1
+os,Which is not OS?,MS Word,Linux,Windows,Android,1
+os,Which manages memory?,OS,CPU,RAM,Hard Disk,1
+os,Which scheduling is fastest?,Shortest Job First,FCFS,Round Robin,Priority,1
+os,Which memory is fastest?,Cache,RAM,ROM,Hard Disk,1
+os,Which is system software?,OS,MS Word,Chrome,Excel,1
+os,Which manages processes?,OS,Compiler,Editor,Assembler,1
+os,Which OS is used in mobiles?,Android,Windows,Linux,Unix,1
+os,Which is multitasking OS?,Windows,DOS,None,Basic,1
+
+dbms,What is DBMS?,Database System,Operating System,Compiler,Language,1
+dbms,Which language is used in DBMS?,SQL,C++,Java,Python,1
+dbms,Which command is used to fetch data?,SELECT,INSERT,DELETE,UPDATE,1
+dbms,Primary key is?,Unique identifier,Duplicate key,Null value,Foreign key,1
+dbms,Which normal form removes redundancy?,3NF,1NF,2NF,BCNF,1
+dbms,Which is not DBMS?,MySQL,Oracle,Windows,SQL Server,1
+dbms,Which command deletes data?,DELETE,REMOVE,ERASE,CLEAR,1
+dbms,Which joins tables?,JOIN,MERGE,CONNECT,LINK,1
+dbms,Which stores data?,Table,Column,Row,Index,1
+dbms,Which command updates data?,UPDATE,MODIFY,CHANGE,ALTER,1
+
+aptitude,10+5=?,15,10,20,25,1
+aptitude,20-4=?,16,14,18,12,1
+aptitude,6*7=?,42,36,48,40,1
+aptitude,36/6=?,6,5,7,8,1
+aptitude,Square of 5?,25,20,30,15,1
+aptitude,12+8=?,20,18,22,24,1
+aptitude,15-7=?,8,6,10,9,1
+aptitude,9*9=?,81,72,90,99,1
+aptitude,50/5=?,10,5,15,20,1
+aptitude,100-25=?,75,80,70,65,1
