@@ -1,18 +1,18 @@
-# 🚀 Online Quiz & Assessment System
+#  Online Quiz & Assessment System
 
 A Java-based application designed to conduct quizzes and evaluate users efficiently.
 This system enables educational platforms to automate assessments and provide instant results with performance analysis.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Educational platforms need an efficient system to conduct quizzes, evaluate answers, and provide instant feedback.
 This project solves that by creating an interactive quiz system with automated scoring.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Create a system where users can take quizzes
 * Automatically evaluate answers
@@ -20,7 +20,7 @@ This project solves that by creating an interactive quiz system with automated s
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
 ✔ Admin can add questions and answers
 ✔ Multiple-choice quiz system
@@ -30,31 +30,31 @@ This project solves that by creating an interactive quiz system with automated s
 
 ---
 
-## 🖼️ Project Screenshots
+##  Project Screenshots
 
-### 🔹 Step 1: Quiz Start Interface
+### Step 1: Quiz Start Interface
 
 ![Quiz Start](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/5eea0fe21b9b13a0c2322cbd0511848d572bbd76/images/Screenshot%202026-04-23%20155144.png?raw=true)
 ![Quiz Start](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155211.png?raw=true)
 
-👉 Users can start the quiz and view available questions in a simple and interactive interface.
+Users can start the quiz and view available questions in a simple and interactive interface.
 
 ---
 
-### 🔹 Step 2: Question & Answer Selection
+###  Step 2: Question & Answer Selection
 
 ![Quiz Questions](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155243.png?raw=true)
 ![Quiz Result](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/main/images/Screenshot%202026-04-23%20155300.png?raw=true)
 
-👉 Users can select answers for multiple-choice questions. The system ensures smooth navigation between questions.
+ Users can select answers for multiple-choice questions. The system ensures smooth navigation between questions.
 
 ---
 
-### 🔹 Step 3: Result & Score Display
+###  Step 3: Result & Score Display
 
 ![Quiz Result](https://github.com/MPAVANKUMARNAIK/Online-Quiz-Assessment-System/blob/5eea0fe21b9b13a0c2322cbd0511848d572bbd76/images/Screenshot%202026-04-23%20160740.png?raw=true)
 
-👉 After completing the quiz, the system displays:
+ After completing the quiz, the system displays:
 
 * Final Score
 * Correct & Incorrect Answers
@@ -62,9 +62,9 @@ This project solves that by creating an interactive quiz system with automated s
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-* Java ☕
+* Java 
 * Core Java (OOP Concepts)
 * File Handling / MySQL
 * Optional GUI (Swing / JavaFX)
@@ -74,7 +74,7 @@ This project solves that by creating an interactive quiz system with automated s
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ```bash
 # Clone repository
@@ -92,7 +92,7 @@ java Main
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 1. Admin adds quiz questions and answers
 2. User selects a quiz and starts attempt
@@ -106,7 +106,7 @@ java Main
 
 ---
 
-## 📊 Example Output
+##  Example Output
 
 * Score: **8/10**
 * Accuracy: **80%**
@@ -114,7 +114,7 @@ java Main
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Web-based version using Spring Boot
 * User authentication system
@@ -127,12 +127,12 @@ java Main
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Meghavath Pavan Kumar Naik**
