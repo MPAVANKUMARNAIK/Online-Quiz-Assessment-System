@@ -22,11 +22,11 @@ This project solves that by creating an interactive quiz system with automated s
 
 ##  Key Features
 
-✔ Admin can add questions and answers
-✔ Multiple-choice quiz system
-✔ Timer-based quiz functionality
-✔ Automatic score calculation
-✔ Result summary with performance analysis
+ Admin can add questions and answers,
+ Multiple-choice quiz system,
+ Timer-based quiz functionality,
+ Automatic score calculation,
+ Result summary with performance analysis
 
 ---
 
